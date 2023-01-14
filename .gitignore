@@ -18,14 +18,12 @@ bin
 *.userprefs
 /.vs/UnityVS.Prosodiya/v14
 *.suo
-ProjectSettings/ProjectVersion.txt
 ProjectSettings/ProjectSettings.asset
 
 
 Library/
 
 Assets/Models.meta
-
 ProjectSettings/ProjectSettings.asset
 
 # Visual Studio cache directory
